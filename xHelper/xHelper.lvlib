@@ -9,6 +9,7 @@
 	</Item>
 	<Item Name="Util" Type="Folder">
 		<Item Name="Util Byte Array to Hex String.vi" Type="VI" URL="../Util Byte Array to Hex String.vi"/>
+		<Item Name="Util Generate Random Value in Range.vi" Type="VI" URL="../Util Generate Random Value in Range.vi"/>
 		<Item Name="Util Get Mac Address.vi" Type="VI" URL="../Util Get Mac Address.vi"/>
 		<Item Name="Util Hex String to Ascii String.vi" Type="VI" URL="../Util Hex String to Ascii String.vi"/>
 		<Item Name="Util Hex String to Decimal.vi" Type="VI" URL="../Util Hex String to Decimal.vi"/>
